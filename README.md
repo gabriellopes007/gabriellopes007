@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 
+
+I am an Embedded Systems Engineer with passion to solve problems in creative ways and investigating new solutions. 
+
+🔭 Currently working on a indoor greenhouse (which is stoped at the moment due to lack of time).
+
+
 
 <!--
 **gabriellopes007/gabriellopes007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
